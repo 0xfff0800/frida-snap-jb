@@ -38,7 +38,7 @@ Step 3 : Connect the device to your Mac via USB
 
 Step 4 : Run:
 
-    python3 flo.py
+    python3 frida-snap.py
 
 Step 5 : Open Snapchat on the device and browse chats
 
